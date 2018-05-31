@@ -1,0 +1,35 @@
+p {
+	background-color: yellow;
+	width: 600px;
+    margin: 0 auto;
+}
+body{
+	background-color: orange;
+}
+.pai, .tai, .pack, .pol{
+	display: inline;
+}
+/*.my-float{
+	float:left;
+	display: inline;
+	width:400px;
+}
+.my-float1{
+	float:right;
+}*/
+.anim{
+	float:left;
+	display: inline;
+
+}
+.panda{
+	float:right;
+
+}
+img{/* create a picture in circle*/
+	border-radius: 50%;
+}
+.move-me{
+position: relative;
+top: 100px;
+}
